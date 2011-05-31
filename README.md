@@ -1,9 +1,7 @@
 rcov_plugin
 ===========
 
-_I'm no longer maintaining this plugin. Feel free to fork it and do what you wish with it, but I won't be updating it anymore._
-
-This is a simple rails plugin for Rails 3 that adds some useful rcov rake tasks.
+This is a simple rails plugin for Rails that adds some useful rcov rake tasks.
 
     rake test:coverage                # Tests coverage on the entire application
     rake test:coverage:units          # Tests coverage for unit tests
