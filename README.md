@@ -48,9 +48,7 @@ This plugin requires rails 3 and
 
 Using With Rails 2
 ============
-This plugin worked with Rails 2 back in the day, and I've got a tag on the repo that you can use to install the old Rails 2 version. Use the following command:
-
-    script/plugin install -r refs/tags/rails_2 git://github.com/commondream/rcov_plugin.git
+Just add the gem to your Gemfile like in Rails 3 (you are using Bundler with Rails 2 aren't you?)
 
 Contributors
 ============
