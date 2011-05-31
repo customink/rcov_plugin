@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
  
   s.required_rubygems_version = ">= 1.3.6"
   
-  s.add_dependency('rails', ">= 3.0.0.beta2")
+  s.add_dependency('rails', ">= 2.3.8")
   s.add_dependency('rcov', '>= 0.9.6')
  
   s.files        = Dir.glob("lib/**/*") + %w(README.md)
